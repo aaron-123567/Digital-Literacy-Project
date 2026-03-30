@@ -1,0 +1,18 @@
+Digital Street Smarts: A Survival Guide for College Life
+In the rush of assignments, UPI payments for chai, and internship hunts, it’s easy to let your guard down. Think of this as your "pre-flight" check to make sure you aren't leaving the door open for a scammer.
+
+Play Detective with Links: Before you click, just hover. Does that "official" VIT link actually point to vit.ac.in, or is it some weird string of numbers? If the URL looks like a jumbled mess, it probably is.
+
+The OTP is Your Secret: Treat your OTP like your ATM PIN. No legitimate bank, professor, or tech support will ever ask you for it over the phone or a text. If they ask, they’re lying.
+
+Lock Down Your UPI: Don't just leave your payment apps open. Use app locks, set a daily transaction limit (maybe ₹5,000 to keep things safe), and always turn on Two-Factor Authentication (2FA). It’s an extra 5 seconds of work that saves a lifetime of stress.
+
+The "30-Second Pause": Scammers love urgency. If an email says, "Account hacked! Click now!"—take a breath. Close the app, go to the official website yourself, or call the official number. Never use the contact info inside the suspicious message.
+
+Public Wi-Fi is for Research, Not Banking: That free café or airport Wi-Fi is great for YouTube, but it’s a playground for hackers. If you’re checking your bank balance or paying a fee, stick to your mobile data or a college VPN.
+
+Keep Your Gear Fresh: Those "System Update" notifications are annoying, but they’re usually patching a hole that a hacker just found. Keep your OS and your payment apps updated so you aren't an easy target.
+
+Trust Your Gut on Red Flags: If an email has weird grammar, a strange attachment, or just feels "off," it probably is. You don't owe anyone a reply—just hit delete.
+
+If You Get Hit, Move Fast: If you realize you’ve been scammed, don't freeze up out of embarrassment. Immediately call 1930 or report it at cybercrime.gov.in. The faster you report it, the better your chances of freezing those funds.

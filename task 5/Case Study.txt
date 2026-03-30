@@ -1,0 +1,18 @@
+Case Study: When the "Bait" Hits Home
+We often talk about phishing as a technical cybercrime, but at its core, it’s a psychological game. It’s when someone pretends to be a person or a company you trust—like your bank, your college, or a recruiter—just to trick you into handing over the keys to your digital life.
+
+How the Trap is Actually Set
+Scammers follow a "playbook" that is designed to bypass your common sense:
+
+The Bait: You get an email that looks official. Maybe it says your VIT account is being suspended or there's a problem with your registration. It’s designed to make you stop whatever you're doing.
+
+The Hook: This is the "panic or excitement" phase. They use phrases like "Act now or lose access!" or "Your scholarship is approved—claim within 1 hour!" They want you to stay in your feelings so you don't start thinking.
+
+The Catch: You click a link that looks 99% like the real login page. You enter your credentials, and just like that, you’ve handed them the keys.
+
+The Sting: Once they have your info, the damage begins—emptying bank accounts, taking over your social media, or even selling your identity on the dark web.
+
+A Real-World Reality Check
+In 2024, a student at Delhi University learned this the hard way. He was right in the middle of exam season—exhausted, stressed, and low on sleep—when he got an email that looked exactly like the college portal saying his scholarship was approved.
+
+In that moment of "exam brain," his guard was down. He clicked, shared his OTP, and within minutes, ₹45,000 was drained from his account. The fallout wasn't just the money; it was the months of identity theft headaches, damaged credit, and the lingering emotional trauma. He managed to get some of the money back through the national cybercrime portal, but the "permanent" damage was his loss of trust in the digital systems he uses every day.
